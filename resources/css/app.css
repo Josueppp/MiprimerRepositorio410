@@ -1,0 +1,8 @@
+@import 'bootstrap';
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+/* resources/css/app.css */
+
+/* Importa Bootstrap desde el CDN o desde tu instalación local */
+@import 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css';
+/* resources/css/app.css */
+@import 'bootstrap/dist/css/bootstrap.min.css';
